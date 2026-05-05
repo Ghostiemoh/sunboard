@@ -1,7 +1,12 @@
 {
   "name": "sunboard",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "homepage": "https://sunboard.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ghostiemoh/sunboard.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

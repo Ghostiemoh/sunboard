@@ -1,4 +1,8 @@
-# Sunboard
+# Sunboard 🌅
+
+[![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel)](https://sunboard.vercel.app)
+
+**Live Demo: [sunboard.vercel.app](https://sunboard.vercel.app)**
 
 Sunboard is a Sunrise DeFi token intelligence dashboard for Solana assets. It turns token market data, liquidity, holder distribution, transfer flow, and a simple momentum score into a fast research surface for deciding which Sunrise-listed assets deserve attention.
 
@@ -70,9 +74,10 @@ Recommended Vercel settings:
 - Output directory: `dist`
 - Install command: `npm install`
 
-## Repository
+## Links
 
-GitHub: https://github.com/Ghostiemoh/sunboard
+- **Live App**: [sunboard.vercel.app](https://sunboard.vercel.app)
+- **GitHub**: [github.com/Ghostiemoh/sunboard](https://github.com/Ghostiemoh/sunboard)
 
 ## Notes
 
