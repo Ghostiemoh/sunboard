@@ -9,9 +9,9 @@ const DEFAULT_FETCH_TIMEOUT = 7000;
 
 // Multi-Lane API Key Matrix for High-Performance Throttling
 const BIRDEYE_KEYS = {
-  CHARTS: '790dfc3148464fc8a777646452517e36',
-  HOLDERS: '68a6fb1179484750a287dc36172866c4',
-  TRADES: '0bee5ac0872e43319fc54ca1b8e82217'
+  CHARTS: 'a54d7f9323da465b873ac9ca95c70f2e',
+  HOLDERS: '657dbca188444cab88b3b9253338aea3',
+  TRADES: 'aa325b96921146d3835e5177ccccf4a2'
 };
 
 const getBirdeyeHeaders = (lane = 'CHARTS') => ({
